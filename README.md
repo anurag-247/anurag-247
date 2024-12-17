@@ -1,5 +1,6 @@
 # Hi there! I'm Anurag 👋
 Welcome to my GitHub repository! Here, you'll find a collection of my projects and contributions as a frontend developer and aspiring software developer. I'm passionate about creating intuitive user interfaces, building robust web applications, and solving complex problems with code.
+My initial projects while learning JavaScript and Python are available on: <a href="https://replit.com/@AnuragSingh133">Replit</a>
 
 ## 🧰 Technologies and Skills
 * JavaScript: I'm well-versed in JavaScript, leveraging its power to create interactive and dynamic web experiences.
